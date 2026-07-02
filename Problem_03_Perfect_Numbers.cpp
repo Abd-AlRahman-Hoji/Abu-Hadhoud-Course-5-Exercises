@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-enum class DivisionStatus {
+enum  enDivisionStatus {
     Divides,
     DoesNotDivide
 };
